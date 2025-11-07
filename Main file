@@ -1,3 +1,4 @@
+
 # To find the n-th Fibonacci Number using formula
 from math import sqrt 
 # import square-root method from math library
@@ -11,3 +12,7 @@ def nthFib(n):
 nthFib(12)
 
 # This code is contributed by Kush Mehta
+#
+# dev1 code
+# Hi This is dev1
+# print "Hi this is dev1"
